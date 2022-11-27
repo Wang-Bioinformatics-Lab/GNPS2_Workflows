@@ -1,0 +1,3 @@
+[submodule "Nextflow_Workflow_Template"]
+	path = Nextflow_Workflow_Template
+	url = https://github.com/Wang-Bioinformatics-Lab/Nextflow_Workflow_Template.git
