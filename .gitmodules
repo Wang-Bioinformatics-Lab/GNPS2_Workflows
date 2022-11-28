@@ -1,3 +1,6 @@
 [submodule "Nextflow_Workflow_Template"]
 	path = Nextflow_Workflow_Template
 	url = https://github.com/Wang-Bioinformatics-Lab/Nextflow_Workflow_Template.git
+[submodule "Add_Batch_Annotated_Validator_Workflow"]
+	path = Add_Batch_Annotated_Validator_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Add_Batch_Annotated_Validator_Workflow.git
