@@ -4,3 +4,6 @@
 [submodule "Add_Batch_Annotated_Validator_Workflow"]
 	path = Add_Batch_Annotated_Validator_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/Add_Batch_Annotated_Validator_Workflow.git
+[submodule "Structural_Similarity_Workflow"]
+	path = Structural_Similarity_Workflow
+	url = https://github.com/mwang87/Structural_Similarity_Workflow.git
