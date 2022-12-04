@@ -7,3 +7,6 @@
 [submodule "Structural_Similarity_Workflow"]
 	path = Structural_Similarity_Workflow
 	url = https://github.com/mwang87/Structural_Similarity_Workflow.git
+[submodule "GNPS_PureNetworking_Workflow"]
+	path = GNPS_PureNetworking_Workflow
+	url = https://github.com/mwang87/GNPS_PureNetworking_Workflow.git
