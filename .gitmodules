@@ -7,3 +7,6 @@
 [submodule "GNPS_PureNetworking_Workflow"]
 	path = GNPS_PureNetworking_Workflow
 	url = https://github.com/mwang87/GNPS_PureNetworking_Workflow.git
+[submodule "GNPSLibrary_to_MGF_Workflow"]
+	path = GNPSLibrary_to_MGF_Workflow
+	url = https://github.com/mwang87/GNPSLibrary_to_MGF_Workflow.git
