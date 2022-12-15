@@ -10,3 +10,6 @@
 [submodule "GNPSLibrary_to_MGF_Workflow"]
 	path = GNPSLibrary_to_MGF_Workflow
 	url = https://github.com/mwang87/GNPSLibrary_to_MGF_Workflow.git
+[submodule "MassQueryLanguage"]
+	path = MassQueryLanguage
+	url = https://github.com/mwang87/MassQueryLanguage.git
