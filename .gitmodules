@@ -13,3 +13,6 @@
 [submodule "MassQueryLanguage"]
 	path = MassQueryLanguage
 	url = https://github.com/mwang87/MassQueryLanguage.git
+[submodule "Chemprop_Workflow"]
+	path = Chemprop_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Chemprop_Workflow.git
