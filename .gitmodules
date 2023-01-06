@@ -16,3 +16,6 @@
 [submodule "Chemprop_Workflow"]
 	path = Chemprop_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/Chemprop_Workflow.git
+[submodule "SpectrumMarkdown_Workflow"]
+	path = SpectrumMarkdown_Workflow
+	url = https://github.com/mwang87/SpectrumMarkdown_Workflow
