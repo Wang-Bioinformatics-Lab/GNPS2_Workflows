@@ -19,3 +19,6 @@
 [submodule "SpectrumMarkdown_Workflow"]
 	path = SpectrumMarkdown_Workflow
 	url = https://github.com/mwang87/SpectrumMarkdown_Workflow
+[submodule "nextflow_NP-Classifier"]
+	path = nextflow_NP-Classifier
+	url = https://github.com/albertogilf/nextflow_NP-Classifier.git
