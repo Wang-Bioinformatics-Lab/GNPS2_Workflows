@@ -22,3 +22,6 @@
 [submodule "nextflow_NP-Classifier"]
 	path = nextflow_NP-Classifier
 	url = https://github.com/albertogilf/nextflow_NP-Classifier.git
+[submodule "nextflow_msms-choser"]
+	path = nextflow_msms-choser
+	url = https://github.com/albertogilf/nextflow_msms-choser.git
