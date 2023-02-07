@@ -25,3 +25,6 @@
 [submodule "nextflow_msms-choser"]
 	path = nextflow_msms-choser
 	url = https://github.com/albertogilf/nextflow_msms-choser.git
+[submodule "3DMolMS_Workflow"]
+	path = 3DMolMS_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/3DMolMS_Workflow.git
