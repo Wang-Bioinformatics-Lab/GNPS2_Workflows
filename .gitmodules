@@ -31,3 +31,6 @@
 [submodule "MolNetEnhancer_Nextflow_Workflow"]
 	path = MolNetEnhancer_Nextflow_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/MolNetEnhancer_Nextflow_Workflow.git
+[submodule "CMMC_Deposition_Workflow"]
+	path = CMMC_Deposition_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/CMMC_Deposition_Workflow
