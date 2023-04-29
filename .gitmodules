@@ -34,3 +34,15 @@
 [submodule "CMMC_Deposition_Workflow"]
 	path = CMMC_Deposition_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/CMMC_Deposition_Workflow
+[submodule "NISTConverstion_Workflow"]
+	path = NISTConverstion_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/NISTConverstion_Workflow.git
+[submodule "SingleSpectrumUSISirius_Workflow"]
+	path = SingleSpectrumUSISirius_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/SingleSpectrumUSISirius_Workflow.git
+[submodule "Classical_Networking_Workflow"]
+	path = Classical_Networking_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Classical_Networking_Workflow.git
+[submodule "IDBac_Analysis_Workflow"]
+	path = IDBac_Analysis_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/IDBac_Analysis_Workflow.git
