@@ -52,3 +52,6 @@
 [submodule "LibrarySearch_Workflow"]
 	path = LibrarySearch_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/LibrarySearch_Workflow.git
+[submodule "Feature_Based_Molecular_Networking_Workflow"]
+	path = Feature_Based_Molecular_Networking_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Feature_Based_Molecular_Networking_Workflow.git
