@@ -55,3 +55,6 @@
 [submodule "Feature_Based_Molecular_Networking_Workflow"]
 	path = Feature_Based_Molecular_Networking_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/Feature_Based_Molecular_Networking_Workflow.git
+[submodule "CMMC_GNPSNetwork_Enrichment_Workflow"]
+	path = CMMC_GNPSNetwork_Enrichment_Workflow
+	url = https://github.com/mwang87/CMMC_GNPSNetwork_Enrichment_Workflow.git
