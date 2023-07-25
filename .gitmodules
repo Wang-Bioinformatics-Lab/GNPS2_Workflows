@@ -61,3 +61,6 @@
 [submodule "nextflow_ms2lda"]
 	path = nextflow_ms2lda
 	url = https://github.com/albertogilf/nextflow_ms2lda
+[submodule "FASST_Batch_Workflow"]
+	path = FASST_Batch_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/FASST_Batch_Workflow.git
