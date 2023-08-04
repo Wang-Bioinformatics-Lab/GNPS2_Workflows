@@ -64,3 +64,6 @@
 [submodule "FASST_Batch_Workflow"]
 	path = FASST_Batch_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/FASST_Batch_Workflow.git
+[submodule "GNPS2_Network_Overlay_Workflow"]
+	path = GNPS2_Network_Overlay_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/GNPS2_Network_Overlay_Workflow.git
