@@ -10,9 +10,6 @@
 [submodule "GNPSLibrary_to_MGF_Workflow"]
 	path = GNPSLibrary_to_MGF_Workflow
 	url = https://github.com/mwang87/GNPSLibrary_to_MGF_Workflow.git
-[submodule "MassQueryLanguage"]
-	path = MassQueryLanguage
-	url = https://github.com/mwang87/MassQueryLanguage.git
 [submodule "Chemprop_Workflow"]
 	path = Chemprop_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/Chemprop_Workflow.git
@@ -67,3 +64,9 @@
 [submodule "GNPS2_Network_Overlay_Workflow"]
 	path = GNPS2_Network_Overlay_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/GNPS2_Network_Overlay_Workflow.git
+[submodule "Test_Slow_Workflow"]
+	path = Test_Slow_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Test_Slow_Workflow.git
+[submodule "MassQL_Workflow"]
+	path = MassQL_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/MassQL_Workflow.git
