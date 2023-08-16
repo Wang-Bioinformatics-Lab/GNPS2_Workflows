@@ -70,3 +70,6 @@
 [submodule "MassQL_Workflow"]
 	path = MassQL_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/MassQL_Workflow.git
+[submodule "FileSummary_Workflow"]
+	path = FileSummary_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/FileSummary_Workflow.git
