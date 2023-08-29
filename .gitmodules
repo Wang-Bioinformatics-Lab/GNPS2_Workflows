@@ -73,3 +73,9 @@
 [submodule "FileSummary_Workflow"]
 	path = FileSummary_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/FileSummary_Workflow.git
+[submodule "nextflow_ms2query"]
+	path = nextflow_ms2query
+	url = https://github.com/albertogilf/nextflow_ms2query.git
+[submodule "Chemwalker_workflow"]
+	path = Chemwalker_workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Chemwalker_workflow.git
