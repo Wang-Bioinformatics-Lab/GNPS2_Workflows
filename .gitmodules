@@ -79,3 +79,6 @@
 [submodule "Chemwalker_workflow"]
 	path = Chemwalker_workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/Chemwalker_workflow.git
+[submodule "msconvert_workflow"]
+	path = msconvert_workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/msconvert_workflow.git
