@@ -82,3 +82,6 @@
 [submodule "msconvert_workflow"]
 	path = msconvert_workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/msconvert_workflow.git
+[submodule "Dependency_Testing_Nextflow_Workflow"]
+	path = Dependency_Testing_Nextflow_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/Dependency_Testing_Nextflow_Workflow.git
