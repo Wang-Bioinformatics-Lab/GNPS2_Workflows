@@ -85,3 +85,6 @@
 [submodule "Dependency_Testing_Nextflow_Workflow"]
 	path = Dependency_Testing_Nextflow_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/Dependency_Testing_Nextflow_Workflow.git
+[submodule "PerScanSummarizer"]
+	path = PerScanSummarizer
+	url = https://github.com/Wang-Bioinformatics-Lab/PerScanSummarizer.git
