@@ -88,3 +88,6 @@
 [submodule "PerScanSummarizer"]
 	path = PerScanSummarizer
 	url = https://github.com/Wang-Bioinformatics-Lab/PerScanSummarizer.git
+[submodule "CascadeSearch_Workflow"]
+	path = CascadeSearch_Workflow
+	url = https://github.com/Wang-Bioinformatics-Lab/CascadeSearch_Workflow.git
