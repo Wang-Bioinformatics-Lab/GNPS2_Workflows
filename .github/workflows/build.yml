@@ -21,5 +21,7 @@ jobs:
     - name: Conda Build
       run: |
         cd Classical_Networking_Workflow
-        mamba create -n test -f ./bin/conda_env.yml
+        mamba create -n test -f ./bin/conda_env.yml -y
+        # remove test
+        mamba remove -n test --all -y
 
