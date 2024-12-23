@@ -1,4 +1,4 @@
-name: Docker Build All Services
+name: Workflow Build All
 
 on:
   push:
@@ -21,6 +21,20 @@ jobs:
     - name: Conda Build
       run: |
         cd Classical_Networking_Workflow
+        mamba create -n test -f ./bin/conda_env.yml -y
+        # remove test
+        mamba remove -n test --all -y
+
+  test-FBMN:
+    runs-on: self-hosted
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+        token: ${{ secrets.TOKEN }}
+    - name: Conda Build
+      run: |
+        cd Feature_Based_Molecular_Networking_Workflow
         mamba create -n test -f ./bin/conda_env.yml -y
         # remove test
         mamba remove -n test --all -y
