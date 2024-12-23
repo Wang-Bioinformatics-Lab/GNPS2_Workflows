@@ -91,3 +91,6 @@
 [submodule "CascadeSearch_Workflow"]
 	path = CascadeSearch_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/CascadeSearch_Workflow.git
+[submodule "SmallMol_Mod_Site_Localization_Workflow"]
+	path = SmallMol_Mod_Site_Localization_Workflow
+	url = https://github.com/mshahneh/SmallMol_Mod_Site_Localization_Workflow.git
