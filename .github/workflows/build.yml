@@ -20,7 +20,7 @@ jobs:
         token: ${{ secrets.TOKEN }}
     - name: Conda Build
       run: |
-        cd Classical_Networking_Workflow && mamba create -n test -f ./bin/conda_env.yml -y
+        cd Classical_Networking_Workflow && mamba env create -n test -f ./bin/conda_env.yml -y
         # remove test
         mamba remove -n test --all -y
 
@@ -33,7 +33,7 @@ jobs:
         token: ${{ secrets.TOKEN }}
     - name: Conda Build
       run: |
-        cd Feature_Based_Molecular_Networking_Workflow && mamba create -n test -f ./bin/conda_env.yml -y
+        cd Feature_Based_Molecular_Networking_Workflow && mamba env create -n test -f ./bin/conda_env.yml -y
         # remove test
         mamba remove -n test --all -y
 
