@@ -36,4 +36,23 @@ jobs:
         cd Feature_Based_Molecular_Networking_Workflow && mamba env create -n test_fbmn -f ./bin/conda_env.yml -y
         # remove test
         mamba remove -n test_fbmn --all -y
+  
+  test-CMMC:
+    runs-on: self-hosted
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: recursive
+        token: ${{ secrets.TOKEN }}
+    - name: Conda Build
+      run: |
+        cd CMMC_Deposition_Workflow && mamba env create -n test_cmmc -f ./bin/conda_env.yml -y
+        # remove test
+        mamba remove -n test_cmmc --all -y
+    - name: Conda Build 2
+      run: |
+        cd CMMC_GNPSNetwork_Enrichment_Workflow && mamba env create -n test_cmmc -f ./bin/conda_env_enrichment.yml -y
+        # remove test
+        mamba remove -n test_cmmc --all -y
+    
 
