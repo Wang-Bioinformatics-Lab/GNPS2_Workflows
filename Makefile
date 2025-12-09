@@ -8,7 +8,9 @@ update_modules:
 	bash ./admin_update_submodules.sh
 
 package_workflows:
+	rm -rf deploy/workflows
+
 	python ./deploy/admin_package_workflows.py
 
 	# compressing
-	cd deploy/workflows && tar -czvf ../GNPS2_Workflows.tar.gz *
+	cd deploy/workflows && tar -cvf - * | pigz -9 > ../GNPS2_Workflows.tar.gz && cd ../..
