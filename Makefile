@@ -14,3 +14,5 @@ package_workflows:
 
 	# compressing
 	cd deploy/workflows && tar -cvf - * | pigz -9 > ../GNPS2_Workflows.tar.gz && cd ../..
+
+	echo "Packaged workflows are available at deploy/GNPS2_Workflows.tar.gz now good to deploy"
