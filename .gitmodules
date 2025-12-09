@@ -34,9 +34,6 @@
 [submodule "IDBac_Analysis_Workflow"]
 	path = IDBac_Analysis_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/IDBac_Analysis_Workflow.git
-[submodule "Fasst_MASST_BuildDB"]
-	path = Fasst_MASST_BuildDB
-	url = https://github.com/Wang-Bioinformatics-Lab/Fasst_MASST_BuildDB.git
 [submodule "LibrarySearch_Workflow"]
 	path = LibrarySearch_Workflow
 	url = https://github.com/Wang-Bioinformatics-Lab/LibrarySearch_Workflow.git
